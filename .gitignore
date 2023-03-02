@@ -1,8 +1,8 @@
 # Ajout de tous les fichiers zip pour les exclure
 *.zip
-
-
-
+pin_header
+demo-arduino-uno
+Bluetooth_HC_06
 
 
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/

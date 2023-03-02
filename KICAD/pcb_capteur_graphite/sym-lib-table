@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "capteur_graphite")(type "KiCad")(uri "//netapp2/ruer/Documents/KICAD/demo-arduino-uno/capteur_graphite.kicad_sym")(options "")(descr ""))
+  (lib (name "Capteur_grapthie")(type "KiCad")(uri "//netapp2/ruer/Documents/KICAD/demo-arduino-uno/Capteur_grapthie.kicad_sym")(options "")(descr ""))
+)
