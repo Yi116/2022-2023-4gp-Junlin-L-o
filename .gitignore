@@ -1,5 +1,7 @@
 # Ajout de tous les fichiers zip pour les exclure
 *.zip
+
+# Exclure librairie 
 pin_header
 demo-arduino-uno
 Bluetooth_HC_06
