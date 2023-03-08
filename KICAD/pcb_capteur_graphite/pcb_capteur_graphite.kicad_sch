@@ -1373,7 +1373,7 @@
     (property "Value" "R" (id 1) (at 123.19 101.5999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 118.872 100.33 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" (id 2) (at 118.872 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 120.65 100.33 0)
@@ -1458,7 +1458,7 @@
     (property "Value" "C" (id 1) (at 48.26 135.8899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 45.4152 138.43 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" (id 2) (at 45.4152 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 44.45 134.62 0)
@@ -1477,7 +1477,7 @@
     (property "Value" "C" (id 1) (at 142.24 100.3299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 139.3952 102.87 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" (id 2) (at 139.3952 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 138.43 99.06 0)
@@ -1496,7 +1496,7 @@
     (property "Value" "R" (id 1) (at 80.01 135.8899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 75.692 134.62 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" (id 2) (at 75.692 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 77.47 134.62 0)
@@ -1568,7 +1568,7 @@
     (uuid c372c893-9dec-444d-a9eb-c8975ff98ac1)
     (property "Reference" "R4" (id 0) (at 119.38 120.65 90))
     (property "Value" "R" (id 1) (at 119.38 123.19 90))
-    (property "Footprint" "" (id 2) (at 119.38 128.778 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" (id 2) (at 119.38 128.778 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.38 127 0)
@@ -1603,7 +1603,7 @@
     (property "Value" "R" (id 1) (at 60.96 135.8899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 56.642 134.62 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical" (id 2) (at 56.642 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 134.62 0)
@@ -1683,7 +1683,7 @@
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/7200a0d9-bbfb-44bb-86e8-6869fee68965"
-      (reference "C1") (unit 1) (value "C") (footprint "")
+      (reference "C1") (unit 1) (value "C") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/43b0070c-7964-4d50-a54c-29501a2690f8"
       (reference "C2") (unit 1) (value "C") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
@@ -1692,7 +1692,7 @@
       (reference "C3") (unit 1) (value "C") (footprint "")
     )
     (path "/72c4d6c4-28d5-4b87-b766-85d66d1fb3e5"
-      (reference "C4") (unit 1) (value "C") (footprint "")
+      (reference "C4") (unit 1) (value "C") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/00000000-0000-0000-0000-000056d71773"
       (reference "J1") (unit 1) (value "Power") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
@@ -1710,16 +1710,16 @@
       (reference "R1") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical")
     )
     (path "/cce41ef8-07b6-4e5f-a231-5f75fadf246c"
-      (reference "R2") (unit 1) (value "R") (footprint "")
+      (reference "R2") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical")
     )
     (path "/7c6189ff-d477-4c3f-bd2e-82748d1cf963"
-      (reference "R3") (unit 1) (value "R") (footprint "")
+      (reference "R3") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical")
     )
     (path "/c372c893-9dec-444d-a9eb-c8975ff98ac1"
-      (reference "R4") (unit 1) (value "R") (footprint "")
+      (reference "R4") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical")
     )
     (path "/54315e57-d63f-41ce-bfb3-ffbc9a18b868"
-      (reference "R5") (unit 1) (value "R") (footprint "")
+      (reference "R5") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical")
     )
     (path "/0fd60681-1e09-4c2b-a264-227f59869b5c"
       (reference "U1") (unit 1) (value "Bluetooth") (footprint "Lib_capteur_graphite:Blutooth")
